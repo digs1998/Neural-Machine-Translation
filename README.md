@@ -25,6 +25,6 @@ Translating English to French using LSTM of RNN models
 **Implementation process, I have refered the [keras](https://github.com/keras-team/keras/blob/master/examples/lstm_seq2seq.py) documentation of this**
 
 # Outputs
-**Output as well as implementation steps can be found on my Kaggle [implementation](https://www.kaggle.com/digvijayyadav/neural-machine-translation-de-l-anglais-vers-le-f/data#Model-Developement)
+**Output as well as implementation steps can be found on my Kaggle [implementation](https://www.kaggle.com/digvijayyadav/neural-machine-translation-de-l-anglais-vers-le-f/data#Model-Developement)**
 
 **Do upvote my notebook if you like it**
